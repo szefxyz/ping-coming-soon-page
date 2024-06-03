@@ -14,4 +14,4 @@ This challenge is great for beginners and offers a chance to practice basic clie
 
 ### Links
 
-- Live Site: https://ping-coming-soon-page.github.io
+- Live Site: [https://ping-coming-soon-page.github.io](https://szefxyz.github.io/ping-single-column-landing-page/)
