@@ -5,8 +5,6 @@ This challenge is great for beginners and offers a chance to practice basic clie
 ### Screenshot
 
 ![](./screenshots//screenshot_desktop.png)
-![](./screenshots//screenshot_mobile.png)
-![](./screenshots//screenshot_mobile_error.png)
 
 ### Built with
 
