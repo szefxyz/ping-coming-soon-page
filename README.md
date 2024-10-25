@@ -26,4 +26,4 @@ Users should be able to:
 
 ### Links
 - Code URL: [Codes](https://github.com/szefxyz/ping-single-column-landing-page)
-- Live Site: [Live View](https://szefxyz.github.io/ping-single-column-landing-page/)
+- Live Site: [Live View](https://szefxyz.github.io/ping-coming-soon-page/)
